@@ -1,0 +1,5 @@
+topics = [
+    { "id": 1, "title": "Upcycling", "video": "Insert an URL", "description": "Welcome to our Upcycling Survey! 🌿✨\nJoin us in exploring the fascinating world of upcycling, where creativity meets sustainability. This brief questionnaire aims to understand your awareness on upcycling practices.\nLet's start! 🌍♻️"},
+    { "id": 2, "title": "Washing", "video": "Insert an URL", "description": "Welcome to our Washing Survey! 🚿👕\nThis survey aims to assess your knowledge about sustainable washing habits, detergent choices, and efficient laundry routines.\nLet's explore together the world of sustainable washing for a cleaner and greener future! 🌿👚"},
+    { "id": 3, "title": "Hygiene", "video": "Insert an URL", "description": "Welcome to our Hygiene Survey! 🌐🚿\nThis survey is designed to assess your understanding about hygiene practices and personal care.\nThank you for participating! 🌍🧼"},
+]
